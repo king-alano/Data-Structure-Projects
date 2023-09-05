@@ -2,7 +2,7 @@
 /*
   auth: AJ Boyd (aboyd3)
   date: 1/31/23
-  desc: implimentation of the pubic methods for the Checkers class
+  desc: implimentation of the pubic methods for the Checkers class.
 */
 #include "checkers.h"
 
