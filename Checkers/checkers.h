@@ -7,7 +7,7 @@ using namespace std;
 class Grader; // this class is for grading purposes, no need to do anything
 class Tester; // this is your tester class, you add your test functions in this class
 
-// the following define statemetns are used for graphical representation
+// the following define statemetns are used for graphical representation.
 #define WDISK "\033[7mWD\033[0m" // represents white disk
 #define BDISK "\033[7mBD\033[0m" // represents black disk
 #define WKING "\033[7mWK\033[0m" // represents white king
